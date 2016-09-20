@@ -37,8 +37,8 @@
 	</build>
 <distributionManagement>
   <snapshotRepository>
-    <id>snapshots</id>
-    <url>http://p16-d-edmci-001.us02.kexpress.net:8081/nexus/content/repositories/snapshots</url>
+    <id>JRepoId</id>
+    <url>http://p16-d-edmci-001.us02.kexpress.net:8081/nexus/content/repositories/JRepoId</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
