@@ -5,7 +5,7 @@
 
 	<groupId>public</groupId>
 	<artifactId>GITHUB_TEST123</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>2.0-SNAPSHOT</version>
 	<name>GITHUB_TEST</name>
 	<packaging>pom</packaging>
 	<description>GITHUB_TEST ODT Project</description>
