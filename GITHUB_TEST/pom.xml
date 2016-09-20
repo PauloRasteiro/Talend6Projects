@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>public</groupId>
-	<artifactId>GITHUB_TEST</artifactId>
+	<artifactId>GITHUB_TEST123</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>GITHUB_TEST</name>
 	<packaging>pom</packaging>
