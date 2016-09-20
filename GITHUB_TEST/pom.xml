@@ -5,7 +5,7 @@
 
 	<groupId>YOUR_GROUP123</groupId>
 	<artifactId>GITHUB_TEST</artifactId>
-	<version>SNAPSHOT</version>
+	<version>*-SNAPSHOT</version>
 	<name>GITHUB_TEST</name>
 	<packaging>pom</packaging>
 	<description>GITHUB_TEST ODT Project</description>
@@ -35,4 +35,8 @@
 			</plugin>
 		</plugins>
 	</build>
+	<ciManagement>
+		<system>Nexus</system>
+		<url>www.123.com</url>
+	</ciManagement>
 </project>
