@@ -35,8 +35,10 @@
 			</plugin>
 		</plugins>
 	</build>
-	<ciManagement>
-		<system>Nexus</system>
-		<url>www.123.com</url>
-	</ciManagement>
+<distributionManagement>
+  <snapshotRepository>
+    <id>snapshots</id>
+    <url>http://p16-d-edmci-001.us02.kexpress.net:8081/nexus/content/repositories/snapshots</url>
+  </snapshotRepository>
+</distributionManagement>
 </project>
